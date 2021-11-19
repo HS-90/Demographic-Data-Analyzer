@@ -1,7 +1,7 @@
 # Demographic-Data-Analyzer
 Demographic Data Analyzer Project
 
-Demographic-Data-Analyzer project completed as part of Scientific Computing with Python Certificate completed with FreeCodeCamp
+Demographic-Data-Analyzer project completed as part of the Data Analysis with Python Certificate completed with FreeCodeCamp
 
 ----THE FOLLOWING DESCRIPTION OF PROJECT IS FROM FREECODECAMP--- For repl.it link with tests: https://replit.com/@YiSun2/boilerplate-demographic-data-analyzer-Submission#README.md
 
